@@ -1,7 +1,6 @@
 {
   "users": {
     "ahsan": "ali",
-    "Roboerto": "roboerto@321",
     "ali": {
       "password": "ahsan",
       "type": "temporary",
