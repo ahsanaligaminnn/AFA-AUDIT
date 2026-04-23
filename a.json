@@ -1,3 +1,9 @@
 {
-  "users": {}
+  "users": {
+    "ahsan": {
+      "password": "ali",
+      "type": "lifetime",
+      "expiry": null
+    }
+  }
 }
