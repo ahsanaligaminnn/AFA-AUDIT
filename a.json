@@ -9,6 +9,11 @@
       "password": "vanyur@321",
       "type": "lifetime",
       "expiry": null
+    },
+    "Ibrahim": {
+      "password": "Ibrahim@321",
+      "type": "temporary",
+      "expiry": "2026-09-22 23:59:59"
     }
   }
 }
